@@ -1,0 +1,32 @@
+
+.form-container{
+    margin-top: 12%;
+    width: 800px;
+    height: 200px;
+}
+.-form{
+    border-radius: 5px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    padding: 5%;
+}
+.-form h3{
+    text-align: center;
+    color: #333;
+    padding-bottom: 10px;
+}
+
+.btnSubmit
+{
+    width: 100%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+    padding-top: 15px;
+}
+
+.-form .btnSubmit{
+    color: #fff;
+    background-color: #0062cc;
+}
+
